@@ -2,7 +2,7 @@
 
 This repository includes the implemention of the Adaptive Sparse Gaussian Process proposed in the paper:
 
-Vanessa Gómez-Verdejo and Manel Martínez-Ramón, "Adaptive Sparse Gaussian Process Regression". Submitted to Pattern Recognition, 2022.
+Vanessa Gómez-Verdejo and Manel Martínez-Ramón, "Adaptive Sparse Gaussian Process Regression". Submitted to IEEE Trans. Neural Networks and Learning Systems, 2022.
 
 In the repository you can find:
 * lib/: the library files with the class and utilities to run the Adaptvie Sparse GP models proposed in the above paper.
