@@ -7,7 +7,7 @@
 '''These functions implement some utilities to run the Fast-AGP and
    AGP models proposed in: 
    V. Gómez-Verdejo and M. Martínez-Ramón, "Adaptive Sparse Gaussian Process".
-   Submitted to Pattern Recognition. 2022.'''
+   Submitted to IEEE Trans. Neural Networks and Learning Systems. 2022.'''
 
 
 import torch

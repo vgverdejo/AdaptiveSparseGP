@@ -66,7 +66,7 @@ class AdaptiveSparseGPRegression(GPModel):
     This class implements the Adaptive Sparse Gaussian Process Regression model proposed
     in:
         V. Gómez-Verdejo and M. Martínez-Ramón, "Adaptive Sparse Gaussian Process".
-        Submitted to Pattern Recognition. 2022.
+        Submitted to IEEE Trans. Neural Networks and Learning Systems. 2022.
 
     :param torch.Tensor X: A input data for training. Its first dimension is the number
         of data points. First positions of X are the oldest and later positions the more recent.
