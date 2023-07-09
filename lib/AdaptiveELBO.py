@@ -14,7 +14,7 @@
 '''These functions implement the adaptive ELBO implemention to 
    run the Adaptive VSGP based on VSI proposed in the Apenddix I of: 
    V. Gómez-Verdejo and M. Martínez-Ramón, "Adaptive Sparse Gaussian Process".
-   Submitted to IEEE Trans. Neural Networks and Learning Systems. 2022.'''
+   Submitted to Pattern Recognition. 2022.'''
         
 import sys
 
